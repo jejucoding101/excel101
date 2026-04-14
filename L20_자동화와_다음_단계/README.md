@@ -138,10 +138,6 @@ Excel에 내장된 AI 어시스턴트:
 
 ## 🔨 가이드 실습 (25분)
 
-**📋 완성 결과 미리보기**:
-
-![Flash Fill 결과 — 전화번호 자동 포맷팅과 이름 분리](images/practice_result.png)
-
 ### 실습 1: Flash Fill 마법 체험 (8분)
 
 1. **이름 분리**:
